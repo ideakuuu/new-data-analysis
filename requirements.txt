@@ -1,0 +1,9 @@
+pandas
+numpy
+web3
+requests
+scipy
+matplotlib
+jupyter
+sqlalchemy
+psycopg2-binary
